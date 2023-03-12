@@ -14,7 +14,9 @@ LICENSE : [MIT](./license.md)
 5. [git commit](./commit.md)
 6. [git push](./push.md)
 7. [git status](./status.md)
-8. [git fetch]
+8. [git fetch](./fetch.md)
+9. [git merge](./merge.md)
+10. [git pull](./pull.md)
 ----
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,

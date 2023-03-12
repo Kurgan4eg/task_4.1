@@ -13,7 +13,8 @@ LICENSE : [MIT](./license.md)
 4. [git init](./init.md)
 5. [git commit](./commit.md)
 6. [git push](./push.md)
-
+7. [git status](./status.md)
+8. [git fetch]
 ----
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,

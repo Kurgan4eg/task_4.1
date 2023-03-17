@@ -11,3 +11,7 @@ git config --global user.name "Your Name"
 
 git config --global user.email "your_email@whatever.com"
 ```
+
+[<На главную](./readme.md)
+[<Перейти к предыдущей странице](./add.md)
+[Перейти к следующей странице>](./init.md)
